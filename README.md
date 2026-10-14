@@ -15,7 +15,6 @@ ollama serve
 3. In a second terminal, run the app:
 
 ```cmd
-cd "C:\Users\Sakshi S Netrakar\Desktop\SmartDesk AI Local File Assistant"
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
